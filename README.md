@@ -14,5 +14,11 @@ In this project we are used netbeans ide and this project is completely based on
 ![viewdoctor](https://github.com/dhrupkp/HospitalManagementSystem_complete_Project/assets/146873114/c24838e8-0957-4ba0-b3a2-ca2e1fcdf3ca)
 ![viewprescription2](https://github.com/dhrupkp/HospitalManagementSystem_complete_Project/assets/146873114/475e5504-3114-4732-8d85-95b6f58f8787)
 
+Database
+![patientdata](https://github.com/dhrupkp/HospitalManagementSystem_complete_Project/assets/146873114/cf2217d0-7f84-4bd6-990e-d5a98b0d10e3)
+![prescriptiondata](https://github.com/dhrupkp/HospitalManagementSystem_complete_Project/assets/146873114/809fa538-4042-4e84-81b6-6ed47ab81a83)
+![ssAppointment](https://github.com/dhrupkp/HospitalManagementSystem_complete_Project/assets/146873114/1ed5d341-9924-40cf-b235-ece4a80980ca)
+![userdata](https://github.com/dhrupkp/HospitalManagementSystem_complete_Project/assets/146873114/152957c4-ba0a-4150-be18-b34f678e4e3d)
+![doctordata](https://github.com/dhrupkp/HospitalManagementSystem_complete_Project/assets/146873114/a16cb6e8-8751-48a5-8ca6-00240c844636)
 
 
